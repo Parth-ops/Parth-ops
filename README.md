@@ -1,9 +1,11 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Parth Phalke
 ## I am a final year IT engineering student and am passionate about development!.
 
+<!---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Parth-ops&label=PROFILE+VIEWS">  
 </p>
+--->
 
 ---
 ## 📶 Socials

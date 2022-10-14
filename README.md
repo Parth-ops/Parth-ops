@@ -7,8 +7,10 @@
 
 ---
 ## 📶 Socials
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fphalke270)](https://twitter.com/phalke270) &nbsp; &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/parth-phalke-5855091a3).
+
+[![Twitter Badge](https://img.shields.io/badge/-phalke270-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/phalke270)](https://twitter.com/phalke270) &nbsp; &nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/-ParthPhalke-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parth-phalke-5855091a3)](https://www.linkedin.com/in/parth-phalke-5855091a3) &nbsp; &nbsp;
+[![Instagram Badge](https://img.shields.io/badge/-parthphalke-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/parthphalke/)](https://www.instagram.com/parthphalke/)
 
 ---
 
